@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.file-input {
+  margin-bottom: 10px;
+}
+
+.button-group {
+  margin-top: 10px;
+}
+
+.audio-control {
+  margin-top: 10px;
+}
+
+h1 {
+  text-align: center;
+}
